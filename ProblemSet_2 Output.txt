@@ -1,0 +1,40 @@
+Vehicle 1 Default Values:
+UNKNOWN
+UNKNOWN
+true
+Vehicle 1 Updated Values:
+MU1001
+Parking Lot
+true
+After checkout:
+false
+After return:
+true
+Vehicle 2 Initial Values:
+MU2002
+Spruce Hall
+true
+Vehicle 2 Updated Values:
+MU1090
+UNKNOWN
+true
+Vehicle 2 after Checkout:
+false
+Vehicle 2 After Return:
+true
+Vehicle 3 - Null Values:
+UNKNOWN
+UNKNOWN
+true
+Vehicle 4 - Empty Strings:
+UNKNOWN
+UNKNOWN
+true
+Vehicle 5 - Invalid Values:
+UNKNOWN
+UNKNOWN
+false
+Vehicle 6 - Invalid Values:
+UNKNOWN
+UNKNOWN
+true
